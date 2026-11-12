@@ -1,0 +1,13 @@
+# Environment variables and secrets
+.env
+.env.*
+
+# Build files
+target/
+
+# IDE files
+.idea/
+.vscode/
+
+# Mac system files
+.DS_Store
